@@ -1,4 +1,7 @@
-### Hybrid Framework Automation
+### Hybrid Framework Automation:
+    This Framework contains rough work around Hybrid Framework development in Java, Javascript using
+    Selenium, Restassured, NPM etc.
+    
 #Contents:
 
     1.API
