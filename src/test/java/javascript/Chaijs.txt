@@ -1,0 +1,12 @@
+npm install chai
+mkdir rest-api-testing && cd rest-api-testing
+mkdir rest-api-testing && cd rest-api-testing
+npm init -y
+npm install chai chai-http mocha
+
+./node_modules/mocha/bin/_mocha first_test.js  --timeout 100000
+
+## How to Write Unit Tests for Your REST API:
+
+- https://medium.com/@oyetoketoby80/how-to-write-unit-test-for-your-rest-api-f8f71376273f
+
